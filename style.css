@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+body {
+	background-color: #222;
+	margin: 0;
+
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	color: #f3f3f3;
+	font-size: 3em;
+}
+
+p {
+	color: #fff;
+}
+
+.imazhi {
+	width: 50%;
+	padding: 0;
+	margin: 0;
+	padding-left: 25vw;
+}
+
+svg {
+	margin: 0;
+}
+
+#Prishtina:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
+#Gjilani:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
+#Ferizaji:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
+#Prizreni:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
+#Gjakova:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
+#Peja:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
+#Mitrovica:hover {
+	fill: #eee;
+	transition: 0.3s;
+}
